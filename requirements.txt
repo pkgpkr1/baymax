@@ -1,7 +1,4 @@
-flask
-requests
-flask-script
-flask-babel
-flask-login
-flask-mail
-flask-cache
+pandas==1.0.3
+numpy==1.18.4
+tensorflow==2.2.0
+flatten==0.2
